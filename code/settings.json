@@ -1,0 +1,20 @@
+{
+  "editor.codeActionsOnSave": {},
+  "editor.detectIndentation": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.minimap.maxColumn": 100,
+  "editor.renderWhitespace": "none",
+  "editor.rulers": [
+    100
+  ],
+  "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": true,
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 100,
+  "editor.wrappingIndent": "indent",
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true
+}
